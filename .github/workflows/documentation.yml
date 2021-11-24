@@ -38,7 +38,7 @@ jobs:
           GIT_USER: ${GITHUB_ACTOR}
           GIT_PASS: ${{ secrets.GITHUB_TOKEN }}
           CURRENT_BRANCH: ${GITHUB_REF_NAME}
-          DEPLOYMENT_BRANCH: main
+          DEPLOYMENT_BRANCH: master
         run: |
           if [ -e yarn.lock ]; then
           yarn install --frozen-lockfile
