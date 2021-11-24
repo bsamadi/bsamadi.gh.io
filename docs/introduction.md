@@ -33,4 +33,4 @@ import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-20
 * میپل‌سافت و تویوتا
 * هوش مصنوعی
 * رباتیک
-*‌ برنامه‌نویسی
+* برنامه‌نویسی
