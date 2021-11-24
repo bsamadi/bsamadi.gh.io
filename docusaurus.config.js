@@ -30,6 +30,7 @@ module.exports = {
     // Cannot be SVGs. Can be external URLs too.
     image: 'img/metaImage.png',
     hideableSidebar: true,
+    onBrokenLinks: 'pass',
     //gtag: {
     //  trackingID: '',
     //},
