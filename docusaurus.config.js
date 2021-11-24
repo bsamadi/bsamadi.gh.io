@@ -14,7 +14,7 @@ module.exports = {
       }
     }
   },
-  title: 'برنامه‌نویسی برای ماها',
+  title: 'برنامه‌نویسی برای بقیه‌مون',
   tagline: 'خسته نشوید!',
   url: 'https://bsamadi.github.io',
   baseUrl: '/coding/',
@@ -53,7 +53,7 @@ module.exports = {
       },
       items: [
         {
-          to: "/docs/introduction",
+          to: "/docs/introduction.md",
           label: 'نکته‌ها',
           position: 'left',
         },
