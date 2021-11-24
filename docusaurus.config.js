@@ -17,7 +17,7 @@ module.exports = {
   title: 'برنامه‌نویسی برای ماها',
   tagline: 'خسته نشوید!',
   url: 'https://bsamadi.github.io',
-  baseUrl: '/',
+  baseUrl: '/coding/',
   trailingSlash: false,
   organizationName: 'bsamadi', // Usually your GitHub org/user name.
   projectName: 'bsamadi.gh.io', // Usually your repo name.
