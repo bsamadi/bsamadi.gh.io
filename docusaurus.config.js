@@ -21,9 +21,8 @@ module.exports = {
   trailingSlash: false,
   organizationName: 'bsamadi', // Usually your GitHub org/user name.
   projectName: 'coding', // Usually your repo name.
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  // onBrokenMarkdownLinks:'ignore',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks:'warn',
   favicon: 'img/favicon.ico',
   themeConfig: {
     // Relative to your site's "static" directory.
