@@ -54,7 +54,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'docs/introduction',
+          docId: 'introduction',
           label: 'نکته‌ها',
           position: 'left',
         },
