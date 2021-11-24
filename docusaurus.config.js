@@ -17,10 +17,10 @@ module.exports = {
   title: 'برنامه‌نویسی برای ماها',
   tagline: 'خسته نشوید!',
   url: 'https://bsamadi.github.io',
-  baseUrl: '/coding/',
+  baseUrl: '/',
   trailingSlash: false,
   organizationName: 'bsamadi', // Usually your GitHub org/user name.
-  projectName: 'coding', // Usually your repo name.
+  projectName: 'bsamadi.gh.io', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // onBrokenMarkdownLinks:'ignore',
@@ -31,7 +31,7 @@ module.exports = {
     image: 'img/metaImage.png',
     hideableSidebar: true,
     gtag: {
-      trackingID: 'G-98VZHCYVG8',
+      trackingID: '',
     },
 
     colorMode: {
@@ -53,45 +53,9 @@ module.exports = {
       },
       items: [
         {
-          label: 'دسته‌بندی‌ها',
+          to: "/docs/introduction",
+          label: 'نکته‌ها',
           position: 'left',
-          items: [
-            {
-              // to: 'docs/python/introduction',
-              // activeBasePath: 'docs',
-              label: 'پایتون',
-              to: 'courses/python',
-              // items: [
-              //   {
-              //     label: 'معرفی',
-              //     to: 'docs/python/introduction',
-              //   },
-              //   {
-              //     label: 'آموزش مقدماتی',
-              //     to: 'docs/python/beginner/introduction',
-              //   },
-              //   {
-              //     label: 'Matplotlib',
-              //     to: 'docs/',
-              //   },
-              // ],
-            },
-            {
-              to: 'courses/git',
-              label: 'گیت',
-              // position: 'left',
-              // items: [
-              //   {
-              //     label: 'معرفی',
-              //     to: 'docs/git/introduction',
-              //   },
-              //   {
-              //     label: 'آموزش مقدماتی',
-              //     to: 'docs/git/beginner/introduction',
-              //   },
-              // ],
-            },
-          ]
         },
         {
           to: 'blog',
