@@ -48,7 +48,7 @@ const SUB_HEADER = translate({
 
 const GET_STARTED = translate({
   id: "pages.main.getStarted",
-  message: "از کجا شروع کنم؟",
+  message: "از کجا آمده‌ام؟",
   description: "The get started button"
 })
 
