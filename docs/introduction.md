@@ -20,6 +20,8 @@ import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-20
 
 ## **من چگونه من شدم**
 
+* اراک
+* گوهردشت
 * دبیرستان رجایی
 * دانشگاه صنعتی شریف
 * دانشگاه صنعتی امیرکبیر
