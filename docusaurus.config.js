@@ -17,10 +17,10 @@ module.exports = {
   title: 'برنامه‌نویسی برای ماها',
   tagline: 'خسته نشوید!',
   url: 'https://bsamadi.github.io',
-  baseUrl: '/coding/',
+  baseUrl: '/',
   trailingSlash: false,
   organizationName: 'bsamadi', // Usually your GitHub org/user name.
-  projectName: 'coding', // Usually your repo name.
+  projectName: 'bsamadi.gh.io', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // onBrokenMarkdownLinks:'ignore',
@@ -46,13 +46,10 @@ module.exports = {
     },
     navbar: {
 
-      title: 'دیتاگیت',
+      title: 'هم‌افزایی',
       logo: {
-        alt: 'لوگو دیتاگیت',
+        alt: 'هم‌افزایی',
         src: 'img/logo.svg',
-        // srcDark: 'img/logo_dark.svg', // Default to `logo.src`.
-        // href: 'https://datagit.ir/', // Default to `siteConfig.baseUrl`.
-        // target: '_self', // By default, this value is calculated based on the `href` attribute (the external link will open in a new tab, all others in the current one).
       },
       items: [
         {
@@ -96,41 +93,6 @@ module.exports = {
             },
           ]
         },
-        // {
-        //   // to: 'docs/python/introduction',
-        //   // activeBasePath: 'docs',
-        //   label: 'پایتون',
-        //   position: 'left',
-        //   items: [
-        //     {
-        //       label: 'معرفی',
-        //       to: 'docs/python/introduction',
-        //     },
-        //     {
-        //       label: 'آموزش مقدماتی',
-        //       to: 'docs/python/beginner/introduction',
-        //     },
-        //     // {
-        //     //   label: 'Matplotlib',
-        //     //   to: 'docs/',
-        //     // },
-        //   ],
-        // },
-        // {
-        //   to: 'docs/git/introduction',
-        //   label: 'گیت',
-        //   position: 'left',
-        //   items: [
-        //     {
-        //       label: 'معرفی',
-        //       to: 'docs/git/introduction',
-        //     },
-        //     {
-        //       label: 'آموزش مقدماتی',
-        //       to: 'docs/git/beginner/introduction',
-        //     },
-        //   ],
-        // },
         {
           to: 'blog',
           label: 'وبلاگ',
@@ -154,7 +116,7 @@ module.exports = {
       //   src: 'img/logoGray.svg',
       //    href: 'https://datagit.ir',
       // },
-      copyright: `مسعود معبودی - دیتاگیت © 2018-${new Date().getFullYear()}`,
+      copyright: `بهزاد صمدی - هم‌افزایی © 2021-${new Date().getFullYear()}`,
     },
 
     // CodeBlock Theme,
@@ -171,10 +133,10 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
-          blogTitle: 'وبلاگ دیتاگیت!',
-          blogDescription: 'جایی برای خواندن همه چیز!',
+          blogTitle: 'وبلاگ!',
+          blogDescription: 'نامه',
           showReadingTime: true,
-          blogSidebarTitle: 'مطالب اخیر'
+          blogSidebarTitle: 'تازه‌ها'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
