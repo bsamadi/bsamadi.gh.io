@@ -40,6 +40,8 @@ jobs:
           CURRENT_BRANCH: ${GITHUB_REF_NAME}
           DEPLOYMENT_BRANCH: gh-pages
         run: |
+          git config --global user.email "actions@gihub.com"
+          git config --global user.name "gh-actions"
           if [ -e yarn.lock ]; then
           yarn install --frozen-lockfile
           elif [ -e package-lock.json ]; then
