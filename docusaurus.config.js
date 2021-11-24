@@ -53,7 +53,8 @@ module.exports = {
       },
       items: [
         {
-          to: "/docs/introduction.md",
+          type: 'doc',
+          docId: 'docs/introduction',
           label: 'نکته‌ها',
           position: 'left',
         },
