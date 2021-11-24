@@ -118,11 +118,11 @@ module.exports = {
         steps: 2, // the max number of images generated between min and max (inclusive)
       },
     ],
-    ['@docusaurus/plugin-google-gtag',
-      {
-        id: 'gtag'
-      }
-    ],
+    //['@docusaurus/plugin-google-gtag',
+    //  {
+    //    id: 'gtag'
+    //  }
+    //],
     [
       '@docusaurus/plugin-sitemap',
       {
