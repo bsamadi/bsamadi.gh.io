@@ -36,7 +36,7 @@ const KEYWORDS = [
 
 const HEADER = translate({
   id: "pages.main.datagit",
-  message: "دیتاگیت",
+  message: "برنامه‌نویسی برای بقیه‌مون",
   description: "The name of the project"
 })
 
