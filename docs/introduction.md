@@ -20,9 +20,7 @@ import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-20
 
 ## **آشنایی با سخنران**
 
-* اراک
-* گوهردشت
-* دبیرستان رجایی
+* دبیرستان شهید رجایی
 * دانشگاه صنعتی شریف
 * دانشگاه صنعتی امیرکبیر
 * سربازی
