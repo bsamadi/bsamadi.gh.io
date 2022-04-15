@@ -79,7 +79,7 @@ module.exports = {
       // logo: {
       //   alt: 'لوگو دیتاگیت',
       //   src: 'img/logoGray.svg',
-      //    href: 'https://datagit.ir',
+      //    href: 'https://bsamadi.github.io/coding',
       // },
       copyright: `بهزاد صمدی - هم‌افزایی © 2021-${new Date().getFullYear()}`,
     },
