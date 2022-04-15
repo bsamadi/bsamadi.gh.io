@@ -1,15 +1,15 @@
 ---
 id: introduction
-title: از کجا آمده‌ام؟
+title: آشنایی
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: از کجا آمده‌ام؟
+sidebar_label: آشنایی
 sidebar_position: 1
-pagination_label: از کجا آمده‌ام؟
-# custom_edit_url: https://datagit.ir/docs/introduction.md
-description: قبل از شروع کد نویسی، باید برای خودتون هدف تعیین کنید و مشخص کنید که چه مهارت‌هایی میخواید یاد بگیرید. اصلا چرا میخواید برنامه نویسی کنید؟ توی این قسمت سعی میکنیم راجع به این موضوع صحبت کنیم و با هم به یه نتیجه برسیم و بتونیم اولین قدم به سمت برنامه نویسی رو محکم برداریم.
+pagination_label: آشنایی
+# custom_edit_url: https://bsamadi.github.io/coding/docs/introduction.md
+description: معرفی خودم
 keywords:
-  - یادگیری برنامه‌نویسی
+  - زندگی
 image: "img/logo.svg"
 slug: /
 ---
@@ -18,7 +18,7 @@ import Image from '@theme/IdealImage';
 import img1 from '@site/static/img/general/startingpoint/steve-jobs.png';
 import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-2021.png';
 
-## **من چگونه من شدم**
+## **آشنایی با سخنران**
 
 * اراک
 * گوهردشت
