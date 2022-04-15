@@ -14,7 +14,7 @@ module.exports = {
       }
     }
   },
-  title: 'برنامه‌نویسی برای بقیه‌مون',
+  title: 'برنامه‌نویسی خودمونی',
   tagline: 'خسته نشوید!',
   url: 'https://bsamadi.github.io',
   baseUrl: '/coding/',
