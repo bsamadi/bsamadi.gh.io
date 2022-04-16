@@ -6,32 +6,32 @@ import styles from './styles.module.css';
 
 const profilePicture = [
   {
-    title: 'مسعود معبودی',
-    description: 'یک انسان عادی که از کمک کردن به بقیه خوشحال میشه.',
-    imageUrl: '/img/general/massoudmaboudi.png',
-    alt: 'Massoud Maboudi'
+    title: 'بهزاد صمدی',
+    description: 'جوینده همیشگی دانش',
+    imageUrl: '/img/general/behzadsamadi.jpg',
+    alt: 'Behzad Samadi'
   }
 ]
 
 const socialMedia = [
   {
     imageUrl: '/img/socialMedia/telegram.png',
-    href: 'https://t.me/massoudmaboudi',
+    href: 'https://t.me/bsamadi',
     alt: 'Telegram ID'
   },
   {
     imageUrl: '/img/socialMedia/whatsapp.png',
-    href: 'http://wa.me/905380471631',
+    href: 'http://wa.me/14168867924',
     alt: 'WhatsApp ID'
   },
   {
     imageUrl: '/img/socialMedia/email.png',
-    href: 'mailto:massoud.maboudi@gmail.com',
+    href: 'mailto:behzad@mechatronics3d.com',
     alt: 'Email ID'
   },
   {
     imageUrl: '/img/socialMedia/linkedin.png',
-    href: 'https://linkedin.com/in/massoud-maboudi',
+    href: 'https://linkedin.com/in/behzadsamadi',
     alt: 'LinkedIn Profile'
   }
 ]
@@ -73,14 +73,13 @@ function Support() {
   return (
     <Layout
       title="تماس با من"
-      description="توی این صفحه میتونید راه های ارتباط با من رو پیدا کنید. میتونید نظرتون رو بهم بگید یا اینکه یه آموزش جدید درخواست بدید. راستی، راجع به همکاری هم میتونیم صحبت کنیم."
-      keywords={['مسعود معبودی', 'Massoud Maboudi', 'دیتاگیت', 'datagit', 'datagit.ir', 'مسعود معبودی رزومه', 'رزومه مسعود معبودی', 'Massoud Maboudi profile', 'دیتا گیت', 'مسعود معبودی دیتا گیت', 'آموزش پایتون', 'آموزش رایگان پایتون']}>
+      description="می‌توانید در لینکداین به من پیام بدهید"
+      keywords={['بهزاد صمدی', 'Behzad Samadi', 'Mechatronics3D']}>
       <div className={clsx(styles.custom_container)}>
         <header className={clsx(styles.heroBanner_contactus, 'hero hero--primary')}>
           <div className='container'>
-            <h1 className={styles.hero__title_contactus}>دیتاگیت</h1>
-            <p className={styles.hero__subtitle_contactus}>توی این صفحه میتونید راه های ارتباط با من رو پیدا کنید. میتونید نظرتون رو بهم بگید یا اینکه یه آموزش جدید درخواست بدید.</p>
-            <p className={styles.hero__subtitle_contactus}>راستی، راجع به همکاری هم میتونیم صحبت کنیم.</p>
+            <h1 className={styles.hero__title_contactus}>هم‌افزایی</h1>
+            <p className={styles.hero__subtitle_contactus}>جمع یک و یک بیشتر از دو است.</p>
           </div>
         </header>
         <main className={styles.main_features}>
