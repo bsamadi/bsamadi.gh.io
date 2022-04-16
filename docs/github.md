@@ -6,13 +6,13 @@ hide_table_of_contents: false
 sidebar_label: گیتهاب
 # sidebar_position: 1
 pagination_label: گیتهاب
-# custom_edit_url: https://datagit.ir/docs/introduction.md
+# custom_edit_url: https://bsamadi.github.io/coding/docs/github.md
 description: گیتهاب دوست شما است.
 keywords:
   - گیتهاب
   - Markdown
 image: "img/logo.svg"
-slug: /
+slug: /github
 ---
 
 import img1 from '@site/static/img/general/startingpoint/steve-jobs.png';
