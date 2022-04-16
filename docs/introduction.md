@@ -11,13 +11,9 @@ description: آشنایی
 keywords:
   - برنامه‌نویسی
 image: "img/logo.svg"
-slug: /
+slug: /introduction
 ---
 
-import img1 from '@site/static/img/general/startingpoint/steve-jobs.png';
-import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-2021.png';
-
-## **پیشگفتار**
 
 * آشنایی با سخنران
 * چرا نرم‌افزار؟
