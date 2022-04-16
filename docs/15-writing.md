@@ -27,3 +27,4 @@ slug: /writing
 - pandoc
 - RStudio
 - KaTeX
+- [Markdown for the component era](https://mdxjs.com/)
