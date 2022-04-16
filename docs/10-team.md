@@ -19,5 +19,8 @@ slug: /team
 - سیستم کنترل نسخه
 - چرخ را از اول اختراع نکنید.
 - نرم‌افزار متن‌باز
-- ساختار قابل توسعه
+- طراحی پودمانی (modular)
 - گیتهاب دوست شما است. دوستان دیگری هم دارید: Gitlab و Bitbucket. اما بیشتر آدم‌ها روی گیتهاب هم هستند.
+
+# مراجع
+- [Virtual prototyping by Behzad Samadi](http://www.mechatronics3d.com/slide/vp2014/index.html#/section)
