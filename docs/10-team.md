@@ -15,9 +15,6 @@ image: "img/logo.svg"
 slug: /team
 ---
 
-import img1 from '@site/static/img/general/startingpoint/steve-jobs.png';
-import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-2021.png';
-
 - کار گروهی
 - سیستم کنترل نسخه
 - چرخ را از اول اختراع نکنید.
