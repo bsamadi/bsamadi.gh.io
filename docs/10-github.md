@@ -1,5 +1,5 @@
 ---
-id: steps
+id: github
 title: گیتهاب
 hide_title: false
 hide_table_of_contents: false
