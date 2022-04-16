@@ -16,10 +16,15 @@ slug: /writing
 ---
 
 - نوشتن متن‌های علمی و فنی
-- Markdown
-- pandoc
-- RStudio
-- KaTeX
+  - Markdown
+  - pandoc
+  - RStudio
+  - KaTeX
+  - مدیریت مراجع
+  - [Qiqqa](http://www.qiqqa.com/)
+  - [JabRef](http://jabref.sourceforge.net/)
+  - [Mendeley](http://www.mendeley.com/)
+  - [Zotero](http://www.zotero.org/)
 - گسترش زبان فارسی در وب
 - درست‌نویسی فارسی
   - هکسره: چه آفتابه درخشانی!
