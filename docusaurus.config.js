@@ -59,11 +59,6 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'blog',
-          label: 'وبلاگ',
-          position: 'left'
-        },
-        {
           to: "contactus",
           label: "تماس با من",
           position: "right",
