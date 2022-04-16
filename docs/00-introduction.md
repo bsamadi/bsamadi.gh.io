@@ -28,3 +28,5 @@ slug: /
 - [Why Software Is Eating the World by  Marc Andreessen](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 - [How open-source software took over the world](https://techcrunch.com/2019/01/12/how-open-source-software-took-over-the-world/)
 - [HashiCorp co-founder on dodging cloud chaos, supporting open source: 'Not all open source is created equal' says Armon Dadgar](https://www.theregister.com/2022/03/28/hashicorp_interview/)
+- [Decentralized Applications (dApp)](https://ethereum.org/en/dapps/)
+- [Top 8 Leading DApps In The World](https://www.emergenresearch.com/blog/top-8-leading-dapps-in-the-world)
