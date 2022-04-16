@@ -31,7 +31,7 @@ slug: /writing
   - نیم‌فاصله
   - ممیز اعشار فارسی
 
-# مراجع
+# سرنخ‌ها
 - [Markdown for the component era](https://mdxjs.com/)
 
 ## Markdown
