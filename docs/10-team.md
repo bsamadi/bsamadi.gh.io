@@ -18,5 +18,7 @@ slug: /team
 import img1 from '@site/static/img/general/startingpoint/steve-jobs.png';
 import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-2021.png';
 
-- گیتهاب دوست شما است. 
-- دوستان دیگری هم دارید: Gitlab و Bitbucket. اما بیشتر آدم‌ها روی گیتهاب هم هستند.
+- کار گروهی
+- سیستم کنترل نسخه
+- چرخ را از اول اختراع نکنید.
+- گیتهاب دوست شما است. دوستان دیگری هم دارید: Gitlab و Bitbucket. اما بیشتر آدم‌ها روی گیتهاب هم هستند.
