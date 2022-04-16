@@ -21,4 +21,5 @@ import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-20
 
 * آشنایی با سخنران
 * چرا نرم‌افزار؟
+* گروه‌های اجتماعی
 * تغییرات سریع و زیاد نرم‌افزار: تهدید و فرصت
