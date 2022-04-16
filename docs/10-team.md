@@ -21,6 +21,12 @@ slug: /team
 - نرم‌افزار متن‌باز
 - طراحی پودمانی (modular)
 - گیتهاب دوست شما است. دوستان دیگری هم دارید: Gitlab و Bitbucket. اما بیشتر آدم‌ها روی گیتهاب هم هستند.
+- مشکلات نرم‌افزاری:
+  - قبلا کار می‌کرد
+  - روی کامپیوتر من کار می‌کند
+  - آخرین نسخه کدام بود؟
 
 # مراجع
 - [Virtual prototyping by Behzad Samadi](http://www.mechatronics3d.com/slide/vp2014/index.html#/section)
+- [The Turing Way](https://the-turing-way.netlify.app/welcome)
+- [Reproducibility of Scientific Results](https://plato.stanford.edu/entries/scientific-reproducibility/)
