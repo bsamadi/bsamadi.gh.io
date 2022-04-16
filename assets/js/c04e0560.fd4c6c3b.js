@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdatagit=self.webpackChunkdatagit||[]).push([[294],{4262:function(e){e.exports=JSON.parse('{"permalink":"/coding/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"\u0646\u0627\u0645\u0647","blogTitle":"\u0648\u0628\u0644\u0627\u06af!"}')}}]);
