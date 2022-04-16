@@ -26,3 +26,4 @@ slug: /
 
 ## مراجع
 - [Why Software Is Eating the World by  Marc Andreessen](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
+- [How open-source software took over the world](https://techcrunch.com/2019/01/12/how-open-source-software-took-over-the-world/)
