@@ -4,7 +4,7 @@ title: نوشتن
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: نوشتن
-sidebar_position: 30
+sidebar_position: 20
 pagination_label: نوشتن
 # custom_edit_url: https://bsamadi.github.io/coding/docs/10-team.md
 description: خوب نوشتن مهم است.
