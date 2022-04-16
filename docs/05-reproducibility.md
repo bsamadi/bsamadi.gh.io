@@ -4,10 +4,10 @@ title: قابلیت بازتولید
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: قابلیت بازتولید
-sidebar_position: 20
+sidebar_position: 05
 pagination_label: قابلیت بازتولید
 # custom_edit_url: https://bsamadi.github.io/coding/docs/github.md
-description: گیتهاب دوست شما است.
+description: قابلیت بازتولید برای خودتان و کار با دیگران مهم است.
 keywords:
   - قابلیت بازتولید
   - Markdown
