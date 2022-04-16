@@ -15,6 +15,10 @@ image: "img/logo.svg"
 slug: /reproducibility
 ---
 
+- مشکلات نرم‌افزاری:
+  - قبلا کار می‌کرد
+  - روی کامپیوتر من کار می‌کند
+
 ## مراجع
 * [The Turing Way](https://the-turing-way.netlify.app/welcome)
 * [Reproducibility of Scientific Results](https://plato.stanford.edu/entries/scientific-reproducibility/)
