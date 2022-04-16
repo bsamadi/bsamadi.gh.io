@@ -4,7 +4,7 @@ title: گیتهاب
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: گیتهاب
-sidebar_position: 2
+sidebar_position: 10
 pagination_label: گیتهاب
 # custom_edit_url: https://bsamadi.github.io/coding/docs/github.md
 description: گیتهاب دوست شما است.
