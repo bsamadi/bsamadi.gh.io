@@ -29,7 +29,6 @@ image: "/img/python/python-logo.svg"
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import Image from '@theme/IdealImage';
 
 import img1 from '@site/static/img/blog/2021-01-02-homebrew-installation/2021-01-02-homebrew-installation-1.png';
 import img2 from '@site/static/img/blog/2021-01-02-homebrew-installation/2021-01-02-homebrew-installation-2.png';
