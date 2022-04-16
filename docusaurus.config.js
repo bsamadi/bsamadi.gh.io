@@ -53,12 +53,6 @@ module.exports = {
       },
       items: [
         {
-          type: 'doc',
-          docId: 'introduction',
-          label: 'نکته‌ها',
-          position: 'left',
-        },
-        {
           to: "contactus",
           label: "تماس با من",
           position: "right",
