@@ -8,14 +8,14 @@ import { translate } from '@docusaurus/Translate';
 
 const TITLE = translate({
   id: "pages.main.title",
-  message: "آموزش با طعم داده",
-  description: "The main title in the first page"
+  message: "یادگیری با انجام دادن",
+  description: "Learning by doing"
 })
 
 const DESCRIPTION = translate({
   id: "pages.main.description",
   message: "نرم‌افزار و هم‌افزایی",
-  description: "The main description in the first page"
+  description: "Software and synergy"
 })
 
 const KEYWORDS = [
