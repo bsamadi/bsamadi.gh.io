@@ -1,5 +1,5 @@
 ---
-id: steps
+id: learning
 title: برنامه یادگیری و اثرگذاری
 hide_title: false
 hide_table_of_contents: false
