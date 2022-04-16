@@ -15,5 +15,5 @@ image: "img/logo.svg"
 slug: /elearninghub
 ---
 
-# مراجع
+# سرنخ‌ها
 - [eLearningHub](https://github.com/elearninghub)
