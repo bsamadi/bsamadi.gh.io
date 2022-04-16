@@ -38,7 +38,7 @@ slug: /writing
 * [Markdown Guide](https://www.markdownguide.org/)
 * [What is Markdown](http://whatismarkdown.com/)
 
-### Rmarkdown
+#### Rmarkdown
 * [RMarkdown example](https://github.com/bbest/rmarkdown-example)
 * [Rmarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 * [The Mockup Blog](https://themockup.blog/)
@@ -52,15 +52,15 @@ slug: /writing
 * [Xaringan](https://slides.yihui.org/xaringan/#1)
 * [Garrick Aden-Buie - Making Extra Great Slides with xaringan, xaringanthemer and xaringanExtra](https://youtu.be/FHy6NseH8yk)
 
-### ReLaXed
+#### ReLaXed
 
 * [ReLaXed examples](https://github.com/RelaxedJS/ReLaXed-examples)
 
-### Python
+#### Python
 
 * [WeasyPrint](https://github.com/CourtBouillon/weasyprint-samples)
 
-### Research Markdown Papers
+#### Research Markdown Papers
 
 * [Pandoc Scholar](https://pandoc-scholar.github.io/)
 * [Plain Text Papers Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
@@ -68,7 +68,7 @@ slug: /writing
 * [Academic Markdown](https://github.com/smathot/academicmarkdown)
 * [Bookdown](https://bookdown.org)
 
-### Documentations
+#### Documentations
 
 * [Antora](https://antora.org/)
 * [Asciidoctor](https://docs.asciidoctor.org)
@@ -76,11 +76,11 @@ slug: /writing
 * [MkDocs](http://www.mkdocs.org/)
 * [Read the Docs](https://readthedocs.org/)
 
-### Parsers
+#### Parsers
 
 * [Remarkable](https://github.com/jonschlinkert/remarkable)
 
-### Diagrams
+#### Diagrams
 
 * [Draw Diagrams With Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown)
 * [Sprite](https://sprite.link/edit/Z3JhcGggVEIKICBzdGFydChTdGFydCkKCiAgc3RhcnQgPT0%2BIGxvZ2luW0xvZ2luXQoKICBsb2dpbiA9PT4gYXV0aHtBdXRob3JpemVkP30KCiAgYXV0aCAtLSBObyAgLS0%2BIHRvb01hbnlUcmllc3tBdHRlbXB0ZWQgMyB0aW1lcz99CiAgYXV0aCA9PSBZZXMgPT0%2BIGdyYW50ZWRbQWNjZXNzIGdyYW50ZWRdCgogIGdyYW50ZWQgPT0%2BIGV4aXR7RXhpdCBtb2R1bGU%2FfQoKICBleGl0IC0tIE5vICAtLT4gZ3JhbnRlZAogIGV4aXQgPT0gWWVzID09PiBmaW5pc2goRW5kKQoKICB0b29NYW55VHJpZXMgLS0gTm8gIC0tPiBsb2dpbgogIHRvb01hbnlUcmllcyAtLSBZZXMgLS0%2BIGZpbmlzaAo%3D)
@@ -111,14 +111,14 @@ slug: /writing
 * [WaveDrom](https://wavedrom.com/)
 * [Quiver](https://q.uiver.app/)
 
-### Markdown Servers
+#### Markdown Servers
 
 * [HackMD](https://hackmd.io/)
 * [Render](https://render.com/)
 * [Gitbook](https://www.gitbook.com/)
 * [Allmark](https://allmark.io/)
 
-### Editors
+#### Editors
 
 * [CuteMarkEd](https://cloose.github.io/CuteMarkEd/)
 * [Hallo](http://hallojs.org/)
@@ -139,38 +139,38 @@ slug: /writing
 * [Notable](https://notable.app/)
 * [10 online markdown editors](https://www.webfx.com/blog/web-design/online-markdown-editors/)
 
-### Online Editors
+#### Online Editors
 * [StackEdit](https://stackedit.io)
 * [Firepad](https://firepad.io/)
 * [Hackmd](https://hackmd.io/)
 * [Socrates](http://socrates.io)
 * [Remark](https://github.com/remarkjs/remark)
 
-### Web Components
+#### Web Components
 
 * [markdown-it](https://markdown-it.github.io/)
 
-### Blog
+#### Blog
 
 * [Installing Jekyll on Windows](http://thedustytome.blogspot.ca/2014/02/getting-jekyll-up-and-running-on-windows.html)
 * [Writing with Markdown in Stata](http://haghish.com/statistics/stata-blog/reproducible-research/dynamic_documents/markdown.php)
 
-### Web
+#### Web
 
 * [Poole](https://bitbucket.org/obensonne/poole)
 * [jemdoc](http://jemdoc.jaboc.net/index.html)
 * [MkDocs](https://www.mkdocs.org/)
 
-### Themes
+#### Themes
 
 * [Markdown CSS themes](https://github.com/jasonm23/markdown-css-themes)
 
-### Templates
+#### Templates
 
 * [Pandoc templates](https://github.com/jgm/pandoc-templates)
 * [Resume](http://cmwelsh.com/beautiful-resumes-with-markdown-and-latex)
 
-### Tools
+#### Tools
 
 * [Try Pandoc](http://johnmacfarlane.net/pandoc/try/)
 * [Python-Markdown](http://pythonhosted.org//Markdown/index.html)
@@ -180,12 +180,97 @@ slug: /writing
 * [Rippledoc](http://www.unexpected-vortices.com/sw/rippledoc/index.html)
 * [wkhtmltopdf](http://wkhtmltopdf.org/)
 
-### Media
+#### Media
 
 * [Text2Talk](https://github.com/eLearningHub/text2talk)
 * [video-to-markdown](https://github.com/marcomontalbano/video-to-markdown)
 
-# RTL
+#### RTL
 
 * [RTL Markdown](https://github.com/dariubs/rtlmd)
 * [RTL Markdown Codecast](http://rtlmd.codecast.ir/)
+
+### LaTeX
+
+#### TeX Distributions
+
+  - [MikTeX](http://miktex.org/)
+  - [ConTeXt](http://wiki.contextgarden.net/Main_Page)
+  - [proTeXt](http://tug.org/protext/)
+
+#### User Guide
+
+  - [The not so short
+    introduction](http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf)
+  - [LaTeX symbols](http://amath.colorado.edu/documentation/LaTeX/Symbols.pdf)
+
+#### Editors
+
+  - Emacs
+      - [Emacs and TeX](http://www.emacswiki.org/emacs/CategoryTex)
+      - [Emacs for Windows](http://vgoulet.act.ulaval.ca/en/emacs/windows)
+      - [GNU Emacs and SumatraPDF](http://www.barik.net/archive/2012/07/18/154432/)
+  - [LaTeX for Eclipse](http://texlipse.sourceforge.net/)
+  - [TeXMaker](http://www.xm1math.net/texmaker/)
+  - [BaKoMa](http://www.bakoma-tex.com/)
+  - [TeXmacs](http://www.texmacs.org/tmweb/home/welcome.en.html)
+  - [LEd](http://www.latexeditor.org/)
+  - [TeXnicCenter](http://www.texniccenter.org/)
+  - [Textpad](http://www.textpad.com/)
+  - [TeXworks](http://code.google.com/p/texworks/)
+  - [WinEdit](http://www.winedt.com/)
+  - [LyX](http://www.lyx.org/)
+
+#### Online
+
+  - [LaTeX Lab](http://docs.latexlab.org/)
+  - [Texify](http://www.texify.com/)
+
+#### Resources
+
+  - [CTAN](http://www.ctan.org/)
+  - [TeX Users Group](http://tug.org/)
+  - [LaTeX Templates](http://www.latextemplates.com/)
+  - [TeXblog](http://texblog.net/)
+  - [LaTeX reference card](http://www.mitchr.me/SS/refc/media/refc_latex.pdf)
+  - [Documentation en ligne sur LaTeX](http://science.thilucmic.fr/spip.php?article5)
+  - [LaTeX, Lyx and knitr](http://faculty.washington.edu/gyollin/docs/Latex.pdf)
+  - How make a LaTeX document look like a Word document:
+      - Use XeLaTeX
+      - [Change the fonts](http://tex.stackexchange.com/questions/10138/change-section-fonts)
+      - [Fix PDF figures](http://tex.stackexchange.com/questions/106964/could-not-insert-pdf-graphics)
+  - How to include PDF pages in
+        LaTeX
+      - {\\includepdf\[pages={1-6},height=\\textheight,frame=false,offset=-5
+        0,trim=70 100 70
+        60,pagecommand={\\thispagestyle{myheadings}}\]{fig/figure.pdf}}
+
+#### Collaborative Writing
+
+  - [writeLaTeX](https://www.writelatex.com/)
+  - [ScribTeX](http://www.scribtex.com/)
+  - [LaTeX Lab](http://docs.latexlab.org/)
+  - [SpartanTeX](http://tex.uncg.edu/login.php)
+  - [ScienceSoft](http://sciencesoft.at/latex/flatex.gsp?lang=en)
+  - [ShareLaTeX](https://www.sharelatex.com/)
+
+#### Packages
+
+  - [Beamer](http://bitbucket.org/rivanvx/beamer/wiki/Home)
+  - [Tikz](http://www.texample.net/tikz/examples)
+  - [XePersian](http://xepersian.berlios.de/)
+  - [ParsiLaTeX](http://fa.parsilatex.wikia.com/wiki/صفحهٔ_اصلی)
+  - [ASTER](http://www.cs.cornell.edu/info/people/raman/aster/demo.html)
+  - [pdfcomment: a user-friendly way to insert comments/ annotations into pdf files](http://texblog.net/latex-archive/latex-general/pdfcomment/)
+  - [Media9 - Multimedia inclusion package](http://www.ctan.org/pkg/media9)
+
+#### Bibliography
+
+  - [Qiqqa](http://www.qiqqa.com/)
+  - [JabRef](http://jabref.sourceforge.net/)
+  - [Mendeley](http://www.mendeley.com/)
+  - [Zotero](http://www.zotero.org/)
+
+#### Showcases
+
+  - [TeX Show](http://www.tug.org/texshowcase/) 
