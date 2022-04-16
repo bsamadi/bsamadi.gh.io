@@ -17,3 +17,4 @@ slug: /reproducibility
 
 ## مراجع
 * [The Turing Way](https://the-turing-way.netlify.app/welcome)
+* [Reproducibility of Scientific Results](https://plato.stanford.edu/entries/scientific-reproducibility/)
