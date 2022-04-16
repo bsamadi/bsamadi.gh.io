@@ -11,7 +11,7 @@ description: برای خودتان یک برنامه یادگیری درست ک�
 keywords:
   - یادگیری
 image: "img/logo.svg"
-slug: /learning
+slug: /action
 ---
 
 - برای خودتان هدف انتخاب کنید. 
