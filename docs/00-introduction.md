@@ -23,3 +23,6 @@ slug: /
 * کار گروهی
 * نرم‌افزار متن باز
 * تغییرات سریع و زیاد نرم‌افزار: تهدید و فرصت
+
+## مراجع
+- [Why Software Is Eating the World by  Marc Andreessen](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
