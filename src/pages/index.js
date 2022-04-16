@@ -36,7 +36,7 @@ const KEYWORDS = [
 
 const HEADER = translate({
   id: "pages.main.datagit",
-  message: "برنامه‌نویسی برای بقیه‌مون",
+  message: "برنامه‌نویسی خودمانی",
   description: "The name of the project"
 })
 
@@ -48,7 +48,7 @@ const SUB_HEADER = translate({
 
 const GET_STARTED = translate({
   id: "pages.main.getStarted",
-  message: "از کجا آمده‌ام؟",
+  message: "پیشگفتار",
   description: "The get started button"
 })
 
