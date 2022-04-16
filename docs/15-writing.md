@@ -14,3 +14,8 @@ keywords:
 image: "img/logo.svg"
 slug: /writing
 ---
+
+# مراجع
+- Markdown
+- pandoc
+- RStudio
