@@ -1,18 +1,18 @@
 ---
-id: github
-title: گیتهاب
+id: team
+title: کار گروهی
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: گیتهاب
+sidebar_label: کار گروهی
 sidebar_position: 10
-pagination_label: گیتهاب
-# custom_edit_url: https://bsamadi.github.io/coding/docs/github.md
+pagination_label: کار گروهی
+# custom_edit_url: https://bsamadi.github.io/coding/docs/10-team.md
 description: گیتهاب دوست شما است.
 keywords:
   - گیتهاب
   - Markdown
 image: "img/logo.svg"
-slug: /github
+slug: /team
 ---
 
 import img1 from '@site/static/img/general/startingpoint/steve-jobs.png';
