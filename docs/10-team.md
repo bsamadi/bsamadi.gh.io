@@ -10,6 +10,7 @@ pagination_label: کار گروهی
 description: گیتهاب دوست شما است.
 keywords:
   - گیتهاب
+  - قابلیت بازتولید
   - Markdown
 image: "img/logo.svg"
 slug: /team
