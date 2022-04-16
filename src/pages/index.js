@@ -14,23 +14,12 @@ const TITLE = translate({
 
 const DESCRIPTION = translate({
   id: "pages.main.description",
-  message: "وبسایت دیتاگیت برای این راه اندازی شده که شاید کمک کوچکی باشه برای کسانی که دوست دارند برنامه نویسی رو یاد بگیرن ولی همیشه فکر میکنن که کار سختیه! توی این وبسایت به هم کمک میکنیم تا مسیر یادگیری رو برای همدیگه آسان تر کنیم.",
+  message: "نرم‌افزار و هم‌افزایی",
   description: "The main description in the first page"
 })
 
 const KEYWORDS = [
-  'مسعود معبودی',
-  'Massoud Maboudi',
-  'دیتاگیت',
-  'datagit',
-  'datagit.ir',
-  'مسعود معبودی رزومه',
-  'رزومه مسعود معبودی',
-  'Massoud Maboudi profile',
-  'دیتا گیت',
-  'مسعود معبودی دیتا گیت',
-  'آموزش پایتون',
-  'آموزش رایگان پایتون'
+  'آموزش برنامه‌نویسی'
 ]
 
 
@@ -42,7 +31,7 @@ const HEADER = translate({
 
 const SUB_HEADER = translate({
   id: "pages.main.tagline",
-  message: "برای برنامه نویس شدن باید دست به کد شد!",
+  message: "شکیبایی رمز پیروزی!",
   description: "The tagline of the project"
 })
 
