@@ -18,6 +18,7 @@ slug: /reproducibility
 - مشکلات نرم‌افزاری:
   - قبلا کار می‌کرد
   - روی کامپیوتر من کار می‌کند
+  - آخرین نسخه کدام بود؟
 
 ## مراجع
 * [The Turing Way](https://the-turing-way.netlify.app/welcome)
