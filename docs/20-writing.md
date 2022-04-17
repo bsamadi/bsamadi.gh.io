@@ -35,14 +35,10 @@ slug: /writing
 
 # سرنخ‌ها
 
-<div dir="rtl">
-
 ## Markdown
 - [Markdown Guide](https://www.markdownguide.org/)
 - [What is Markdown](http://whatismarkdown.com/)
 - [Markdown for the component era](https://mdxjs.com/)
-
-</div>
 
 ### Rmarkdown
 - [RMarkdown example](https://github.com/bbest/rmarkdown-example)
