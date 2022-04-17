@@ -6,7 +6,7 @@ module.exports = {
     localeConfigs: {
       'fa': {
         label: "فارسی",
-        direction: "rtl"
+        direction: "auto"
       },
       'en': {
         label: "English",
