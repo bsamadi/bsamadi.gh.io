@@ -29,7 +29,7 @@ slug: /writing
 - درست‌نویسی فارسی
   - هکسره: چه آفتابه درخشانی!
   - نیم‌فاصله
-  - ممیز اعشار فارسی: ۲
+  - [ممیز اعشار فارسی](https://fa.wikipedia.org/wiki/%D8%AC%D8%AF%D8%A7%DA%A9%D9%86%D9%86%D8%AF%D9%87_%D8%A7%D8%B9%D8%B4%D8%A7%D8%B1): ۲٫۳ 
 
 # سرنخ‌ها
 - [Markdown for the component era](https://mdxjs.com/)
