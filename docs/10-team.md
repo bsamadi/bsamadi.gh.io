@@ -19,7 +19,7 @@ slug: /team
 - کار گروهی
 - سیستم کنترل نسخه
   - نرم‌افزار
-  - داده
+  - داده ([اصول FAIR](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html))
 - چرخ را از اول اختراع نکنید.
 - نرم‌افزار متن‌باز
 - [پژوهش متن‌باز](https://the-turing-way.netlify.app/reproducible-research/open.html)
