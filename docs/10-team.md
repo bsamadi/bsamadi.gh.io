@@ -92,6 +92,7 @@ slug: /team
 ## Version Control for Data
 - [Datalad](https://www.datalad.org/)
 - [Data Verion Control (DVC)](https://dvc.org/)
+- [A FAIRy tale](https://zenodo.org/record/2248200)
 
 ## Open Source
 
