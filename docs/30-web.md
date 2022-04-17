@@ -36,6 +36,8 @@ slug: /web
   - [SQL](https://www.w3schools.com/sql/default.asp)
 # سرنخ‌ها
 
+- [Frontend vs backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
+
 ## Frontend
 
 *   [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
