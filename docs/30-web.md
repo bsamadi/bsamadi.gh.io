@@ -71,18 +71,16 @@ JAMStack stands for JavaScript, API and Markup.
 
 *   [Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible](http://tachyons.io/docs/)
 
-## Illustrations
-
-*   [Undraw](https://undraw.co/)
-
-## Photos
-
-*   [Unsplash](https://unsplash.com/)
-*   [Dark Table](https://www.darktable.org/)
-
-## Vector Graphics
-
-*   [Vectr](https://vectr.com)
+## Resources for websites
+- [The Noun Project](https://thenounproject.com/)
+- [Undraw](https://undraw.co/)
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Freepik](https://www.freepik.com/free-photos-vectors/english)
+- [Flaticon](https://www.flaticon.com/free-icons/english)
+- [Canva](https://www.canva.com/)
+- [Vectr](https://vectr.com)
+- [Dark Table](https://www.darktable.org/)
 
 ## GUI
 
