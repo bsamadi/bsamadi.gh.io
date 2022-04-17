@@ -41,6 +41,7 @@ slug: /web
   - [C#](https://www.w3schools.com/cs/index.php)
 - Libraries
   - [Express JS: Node.js web application framework](https://expressjs.com/en/starter/hello-world.html)
+  - [Flask](https://github.com/pallets/flask)
   - [Django REST framework](https://www.django-rest-framework.org/tutorial/quickstart/)
   - [Rails](https://guides.rubyonrails.org/getting_started.html)
   - [Spring](https://spring.io/quickstart) 
