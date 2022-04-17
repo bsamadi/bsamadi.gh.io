@@ -55,6 +55,7 @@ slug: /web
 ## Frontend
 
 *   [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
+*   [Frontend Boilerplates](https://boilerplates.js.org/)
 *   [BuilderIO](https://github.com/BuilderIO/builder)
 
 ## CSS
