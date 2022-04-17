@@ -14,3 +14,8 @@ keywords:
 image: "img/logo.svg"
 slug: /web
 ---
+
+- Frontend
+  - [HTML](https://www.w3schools.com/html/default.asp)
+  - [JavaScript](https://www.w3schools.com/js/default.asp)
+  - [CSS](https://www.w3schools.com/css/)
