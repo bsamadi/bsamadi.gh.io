@@ -47,6 +47,15 @@ slug: /web
   - [Spring](https://spring.io/quickstart) 
 ## پایگاه‌ها داده‌ها
 - [SQL](https://www.w3schools.com/sql/default.asp)
+
+## JAMStack
+JAMStack stands for JavaScript, API and Markup.
+
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Hugo](https://gohugo.io/)
+- [Jekyll](http://jekyllrb.com/)
+- [NextJS](https://nextjs.org/)
+- [Docusaurus](https://docusaurus.io/)
 # سرنخ‌ها
 
 - [Frontend vs backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
@@ -213,11 +222,12 @@ slug: /web
 ### Static websites
 * [Gridsome](https://gridsome.org/)
 
-## JAMstack
+## JAMStack
 
-*   [JAMstack](https://jamstack.org/)
+*   [JAMStack](https://jamstack.org/)
 *   [StaticGen](https://www.staticgen.com/)
-*   [JAMstack themes](https://jamstackthemes.dev/)
+*   [JAMStack themes](https://jamstackthemes.dev/)
+*   [JAMstack Themes](https://github.com/stackbit/jamstackthemes)
 *   [MDwiki](http://dynalon.github.io/mdwiki)
 *   [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
 
@@ -232,7 +242,3 @@ slug: /web
 ### Examples
 
 *   [Vercel Examples](https://github.com/vercel/vercel/tree/master/examples)
-
-### Themes
-
-* [JAMstack Themes](https://github.com/stackbit/jamstackthemes)
