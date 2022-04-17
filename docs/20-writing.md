@@ -42,6 +42,8 @@ slug: /writing
 - [What is Markdown](http://whatismarkdown.com/)
 - [Markdown for the component era](https://mdxjs.com/)
 
+</div>
+
 ### Rmarkdown
 - [RMarkdown example](https://github.com/bbest/rmarkdown-example)
 - [Rmarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
@@ -277,5 +279,3 @@ slug: /writing
 ### Showcases
 
 - [TeX Show](http://www.tug.org/texshowcase/) 
-
-</div>
