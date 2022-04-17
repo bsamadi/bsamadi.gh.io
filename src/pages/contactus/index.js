@@ -7,7 +7,7 @@ import styles from './styles.module.css';
 const profilePicture = [
   {
     title: 'بهزاد صمدی',
-    description: 'جوینده همیشگی دانش',
+    description: 'همیشه دانشجو',
     imageUrl: '/img/general/behzadsamadi.jpg',
     alt: 'Behzad Samadi'
   }
