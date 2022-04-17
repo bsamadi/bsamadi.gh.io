@@ -22,6 +22,7 @@ slug: /team
   - داده
 - چرخ را از اول اختراع نکنید.
 - نرم‌افزار متن‌باز
+- [پژوهش متن‌باز](https://the-turing-way.netlify.app/reproducible-research/open.html)
 - طراحی پودمانی (modular)
 - گیتهاب دوست شما است. دوستان دیگری هم دارید: Gitlab و Bitbucket. اما بیشتر آدم‌ها روی گیتهاب هم هستند.
 - مشکلات نرم‌افزاری:
