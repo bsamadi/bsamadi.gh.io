@@ -19,3 +19,6 @@ slug: /action
 - همزمان با پیشرفت، مسیر یادگیری را بروز کنید.
 - گروهی کار کنید.
 - شکیبا باشید و ناامید نشوید.
+
+# سرنخ‌ها
+- [Start a podcast](https://the-turing-way.netlify.app/communication/podcasts.html)
