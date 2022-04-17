@@ -14,7 +14,9 @@ keywords:
 image: "img/logo.svg"
 slug: /learning
 ---
-
+- درس
+- امتحان
+- اسلاید
 # سرنخ‌ها
 
 ## EdTech
