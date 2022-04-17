@@ -15,17 +15,25 @@ image: "img/logo.svg"
 slug: /web
 ---
 
-- Graphical Design
+- طراحی گرافیکی
   - [Adobe XD](https://www.adobe.com/ca/products/xd.html)
   - [Figma](https://www.figma.com/)
   - [Pencil](https://pencil.evolus.vn/)
   - [Sketch](https://www.sketch.com/)
-
-- Frontend
+- پیاده‌سازی فرانت اند (frontend)
   - [HTML](https://www.w3schools.com/html/default.asp)
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [CSS](https://www.w3schools.com/css/)
-
+- پیاده‌سازی بک اند (backend)
+  - [JavaScript](https://www.w3schools.com/js/default.asp)
+  - [Python](https://www.w3schools.com/python/default.asp)
+  - [PHP](https://www.w3schools.com/php/default.asp)
+  - [Java](https://www.w3schools.com/java/default.asp)
+  - [Ruby](https://www.ruby-lang.org/en/)
+  - [Go](https://go.dev/)
+  - [C#](https://www.w3schools.com/cs/index.php)
+- پایگاه‌ها داده‌ها
+  - [SQL](https://www.w3schools.com/sql/default.asp)
 # سرنخ‌ها
 
 ## Frontend
