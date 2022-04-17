@@ -23,7 +23,7 @@ slug: /team
 - چرخ را از اول اختراع نکنید.
 - نرم‌افزار متن‌باز
 - [پژوهش متن‌باز](https://the-turing-way.netlify.app/reproducible-research/open.html)
-- طراحی پودمانی (modular)
+- طراحی پودمانی ([modular](http://www.mechatronics3d.com/slide/vp2014/index.html#/section))
 - گیتهاب دوست شما است. دوستان دیگری هم دارید: Gitlab و Bitbucket. اما بیشتر آدم‌ها روی گیتهاب هم هستند.
 - مشکلات نرم‌افزاری:
   - قبلا کار می‌کرد
@@ -31,7 +31,6 @@ slug: /team
   - آخرین نسخه کدام بود؟
 
 # سرنخ‌ها
-- [Virtual prototyping by Behzad Samadi](http://www.mechatronics3d.com/slide/vp2014/index.html#/section)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
 - [Reproducibility of Scientific Results](https://plato.stanford.edu/entries/scientific-reproducibility/)
 
