@@ -20,7 +20,7 @@ slug: /writing
   - pandoc
   - RStudio
   - KaTeX
-  - مدیریت مراجع
+- مدیریت مراجع
   - [Qiqqa](http://www.qiqqa.com/)
   - [JabRef](http://jabref.sourceforge.net/)
   - [Mendeley](http://www.mendeley.com/)
@@ -29,7 +29,7 @@ slug: /writing
 - درست‌نویسی فارسی
   - هکسره: چه آفتابه درخشانی!
   - نیم‌فاصله
-  - ممیز اعشار فارسی
+  - ممیز اعشار فارسی: ۲
 
 # سرنخ‌ها
 - [Markdown for the component era](https://mdxjs.com/)
