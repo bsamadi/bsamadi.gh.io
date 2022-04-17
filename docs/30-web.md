@@ -37,6 +37,7 @@ slug: /web
 # سرنخ‌ها
 
 - [Frontend vs backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
+- [Top 7 Programming Languages for Backend Web Development](https://www.geeksforgeeks.org/top-7-programming-languages-for-backend-web-development/)
 
 ## Frontend
 
