@@ -21,17 +21,17 @@ slug: /web
 - [Pencil](https://pencil.evolus.vn/)
 - [Sketch](https://www.sketch.com/)
 ## فرانت اند (frontend)
-- Languages
+- زبان‌ها
   - [HTML](https://www.w3schools.com/html/default.asp)
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [CSS](https://www.w3schools.com/css/)
-- Libraries
+- کتابخانه‌ها
   - [React.js](https://reactjs.org/docs/getting-started.html)
   - [Angular](https://angular.io/docs)
   - [Vue.js](https://vuejs.org/guide/quick-start.html)
   - [Flutter](https://flutter.dev/)
 ## بک اند (backend)
-- Languages
+- زبان‌ها
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [Python](https://www.w3schools.com/python/default.asp)
   - [PHP](https://www.w3schools.com/php/default.asp)
@@ -39,7 +39,7 @@ slug: /web
   - [Ruby](https://www.ruby-lang.org/en/)
   - [Go](https://go.dev/)
   - [C#](https://www.w3schools.com/cs/index.php)
-- Libraries
+- کتابخانه‌ها
   - [Express JS: Node.js web application framework](https://expressjs.com/en/starter/hello-world.html)
   - [Flask](https://github.com/pallets/flask)
   - [Django REST framework](https://www.django-rest-framework.org/tutorial/quickstart/)
