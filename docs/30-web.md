@@ -15,19 +15,18 @@ image: "img/logo.svg"
 slug: /web
 ---
 
+- Graphical Design
+  - [Adobe XD](https://www.adobe.com/ca/products/xd.html)
+  - [Figma](https://www.figma.com/)
+  - [Pencil](https://pencil.evolus.vn/)
+  - [Sketch](https://www.sketch.com/)
+
 - Frontend
   - [HTML](https://www.w3schools.com/html/default.asp)
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [CSS](https://www.w3schools.com/css/)
 
 # سرنخ‌ها
-
-## Graphical Design
-
-*   [Adobe XD](https://www.adobe.com/ca/products/xd.html)
-*   [Figma](https://www.figma.com/)
-*   [Pencil](https://pencil.evolus.vn/)
-*   [Sketch](https://www.sketch.com/)
 
 ## Frontend
 
