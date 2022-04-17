@@ -206,9 +206,9 @@ slug: /writing
 ### Editors
 
 - Emacs
-    - [Emacs and TeX](http://www.emacswiki.org/emacs/CategoryTex)
-    - [Emacs for Windows](http://vgoulet.act.ulaval.ca/en/emacs/windows)
-    - [GNU Emacs and SumatraPDF](http://www.barik.net/archive/2012/07/18/154432/)
+  - [Emacs and TeX](http://www.emacswiki.org/emacs/CategoryTex)
+  - [Emacs for Windows](http://vgoulet.act.ulaval.ca/en/emacs/windows)
+  - [GNU Emacs and SumatraPDF](http://www.barik.net/archive/2012/07/18/154432/)
 - [LaTeX for Eclipse](http://texlipse.sourceforge.net/)
 - [TeXMaker](http://www.xm1math.net/texmaker/)
 - [BaKoMa](http://www.bakoma-tex.com/)
