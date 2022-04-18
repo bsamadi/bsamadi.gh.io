@@ -31,6 +31,9 @@ slug: /team
   - آخرین نسخه کدام بود؟
 
 # سرنخ‌ها
+
+<div dir="auto">
+
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
 - [Reproducibility of Scientific Results](https://plato.stanford.edu/entries/scientific-reproducibility/)
 
@@ -232,3 +235,5 @@ slug: /team
 ## Package Management
 
 *   [Homebrew](https://docs.brew.sh/Homebrew-on-Linux)
+
+</div>
