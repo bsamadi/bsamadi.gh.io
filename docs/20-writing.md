@@ -16,10 +16,10 @@ slug: /writing
 ---
 
 - نوشتن متن‌های علمی و فنی
-  - Markdown
-  - pandoc
-  - RStudio
-  - KaTeX
+  - [Markdown](https://dillinger.io/)
+  - [pandoc](https://pandoc.org/)
+  - [RStudio](https://rmarkdown.rstudio.com/gallery.html)
+  - [KaTeX](https://katex.org/)
 - مدیریت مراجع
   - [Qiqqa](http://www.qiqqa.com/)
   - [JabRef](http://jabref.sourceforge.net/)
