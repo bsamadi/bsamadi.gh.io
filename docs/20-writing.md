@@ -35,6 +35,8 @@ slug: /writing
 
 # سرنخ‌ها
 
+<div dir="auto">
+
 ## Markdown
 - [Markdown Guide](https://www.markdownguide.org/)
 - [What is Markdown](http://whatismarkdown.com/)
@@ -275,3 +277,5 @@ slug: /writing
 ### Showcases
 
 - [TeX Show](http://www.tug.org/texshowcase/) 
+
+</div>

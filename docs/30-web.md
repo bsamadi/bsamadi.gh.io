@@ -58,6 +58,8 @@ JAMStack stands for JavaScript, API and Markup.
 - [Docusaurus](https://docusaurus.io/)
 # سرنخ‌ها
 
+<div dir="auto">
+
 - [Frontend vs backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
 - [Top 7 Programming Languages for Backend Web Development](https://www.geeksforgeeks.org/top-7-programming-languages-for-backend-web-development/)
 
@@ -240,3 +242,5 @@ JAMStack stands for JavaScript, API and Markup.
 ### Examples
 
 *   [Vercel Examples](https://github.com/vercel/vercel/tree/master/examples)
+
+</div>

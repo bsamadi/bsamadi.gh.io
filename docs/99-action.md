@@ -25,4 +25,9 @@ slug: /action
 - مسعود معبودی، نویسنده [datagit.ir](https://www.datagit.ir/)
 
 # سرنخ‌ها
+
+<div dir="auto">
+
 - [Start a podcast](https://the-turing-way.netlify.app/communication/podcasts.html)
+
+</div>

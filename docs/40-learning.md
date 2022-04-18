@@ -19,6 +19,8 @@ slug: /learning
 - اسلاید
 # سرنخ‌ها
 
+<div dir="auto">
+
 ## EdTech
 
 * [Top tools for learning](https://www.toptools4learning.com/)
@@ -480,3 +482,5 @@ slug: /learning
 ### Block-Based Programming
 * [BlockPy Jupyter Notebooks](https://blog.ouseful.info/tag/blockpy/)
 * [Learning Calico Jigsaw](https://www.youtube.com/playlist?list=PLo7YO_w3ktGSuVtXI6WG2JXO6yHh-xnEa)
+
+</div>

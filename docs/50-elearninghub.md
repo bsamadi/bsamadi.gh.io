@@ -16,4 +16,9 @@ slug: /elearninghub
 ---
 
 ## سرنخ‌ها
+
+<div dir="auto">
+
 - [eLearningHub](https://github.com/elearninghub)
+
+</div>
