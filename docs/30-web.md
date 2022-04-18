@@ -48,18 +48,21 @@ slug: /web
 ## پایگاه‌ها داده‌ها
 - [SQL](https://www.w3schools.com/sql/default.asp)
 
-<p dir="auto">
+## استک JAM (JAMStack)
 
-## JAMStack
-JAMStack stands for JavaScript, API and Markup.
+استک JAM از این سه بخش تشکیل شده است:
 
+- JavaScript
+- API
+- Markup
+
+نمونه‌ها:
+
+- [Docusaurus](https://docusaurus.io/)
 - [Gatsby](https://www.gatsbyjs.com/)
+- [NextJS](https://nextjs.org/)
 - [Hugo](https://gohugo.io/)
 - [Jekyll](http://jekyllrb.com/)
-- [NextJS](https://nextjs.org/)
-- [Docusaurus](https://docusaurus.io/)
-
-</p>
 
 # سرنخ‌ها
 
