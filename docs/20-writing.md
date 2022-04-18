@@ -41,6 +41,7 @@ slug: /writing
 - [Markdown Guide](https://www.markdownguide.org/)
 - [What is Markdown](http://whatismarkdown.com/)
 - [Markdown for the component era](https://mdxjs.com/)
+- [10 Useful Resources for Learning Markdown Syntax](https://www.webfx.com/blog/web-design/learning-markdown-syntax/)
 
 ### Rmarkdown
 - [RMarkdown example](https://github.com/bbest/rmarkdown-example)
