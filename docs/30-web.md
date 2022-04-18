@@ -48,7 +48,7 @@ slug: /web
 ## پایگاه‌ها داده‌ها
 - [SQL](https://www.w3schools.com/sql/default.asp)
 
-## استک JAM (JAMStack)
+## [JAMStack](https://jamstack.wtf/)
 
 استک JAM از این سه بخش تشکیل شده است:
 
