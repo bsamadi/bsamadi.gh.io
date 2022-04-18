@@ -20,5 +20,9 @@ slug: /action
 - گروهی کار کنید.
 - شکیبا باشید و ناامید نشوید.
 
+# سپاسگزاری
+
+- مسعود معبودی، نویسنده [datagit.ir](https://www.datagit.ir/)
+
 # سرنخ‌ها
 - [Start a podcast](https://the-turing-way.netlify.app/communication/podcasts.html)
