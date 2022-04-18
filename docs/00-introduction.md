@@ -14,6 +14,8 @@ image: "img/logo.svg"
 slug: /
 ---
 
+import refs from './00-introduction-refs.md'
+
 * آشنایی با سخنران
 * چرا برنامه‌نویسی؟
 * سخت‌افزار و نرم‌افزار
@@ -34,3 +36,5 @@ slug: /
 - [Top 8 Leading DApps In The World](https://www.emergenresearch.com/blog/top-8-leading-dapps-in-the-world)
 - [Why Software Is The Most Important Catalyst For Social Change](https://www.forbes.com/sites/forbestechcouncil/2021/09/28/why-software-is-the-most-important-catalyst-for-social-change/)
 </div>
+
+<refs />
