@@ -16,6 +16,7 @@ slug: /learning
 ---
 - درس
   - [Learning Management System](https://github.com/topics/learning-management-system)
+  - [cvxguide](https://github.com/bsamadi/cvxguide)
 - امتحان
   - [Möbius](https://www.digitaled.com/mobius)
 - [اسلاید](http://www.mechatronics3d.com/slide/vp2014/index.html)
