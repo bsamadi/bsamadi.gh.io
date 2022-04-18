@@ -14,7 +14,7 @@ image: "img/logo.svg"
 slug: /
 ---
 
-import refs from './00-introduction-refs.md'
+import refs from './00-introduction-refs'
 
 * آشنایی با سخنران
 * چرا برنامه‌نویسی؟
