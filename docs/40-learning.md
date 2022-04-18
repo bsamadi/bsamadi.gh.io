@@ -51,6 +51,7 @@ slug: /learning
 ### American
 
 * [Canvas](https://www.instructure.com/canvas)
+* [Eliminating Canvas Stress by Writing Content in Markdown](http://www.robbyburns.com/blog/eliminating-canvas-stress-by-writing-content-in-markdown)
 * [North American Higher Ed LMS Market Share by Enrollments: A consolidating market](https://eliterate.us/na-he-lms-market-share-enrollments-for-2012-2018/)
 
 ## Hackathons
