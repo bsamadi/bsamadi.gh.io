@@ -15,8 +15,10 @@ image: "img/logo.svg"
 slug: /learning
 ---
 - درس
+  - [Learning Management System](https://github.com/topics/learning-management-system)
 - امتحان
-- اسلاید
+- [اسلاید](http://www.mechatronics3d.com/slide/vp2014/index.html)
+
 # سرنخ‌ها
 
 <div dir="auto">
