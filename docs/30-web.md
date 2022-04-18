@@ -68,9 +68,6 @@ slug: /web
 
 <div dir="auto">
 
-- [Frontend vs backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
-- [Top 7 Programming Languages for Backend Web Development](https://www.geeksforgeeks.org/top-7-programming-languages-for-backend-web-development/)
-
 ## Frontend
 
 *   [Frontend development tools](https://github.com/gamtiq/frontend-tools/blob/master/README.md)
@@ -227,25 +224,29 @@ slug: /web
 * [Awesome Nuxt.js](https://github.com/Developerayo/awesome-nuxtjs)
 * [Awesome Nuxt.js.org](https://awesome-nuxt.js.org/)
 
-### Static websites
-* [Gridsome](https://gridsome.org/)
+## Backend
+
+- [Top 7 Programming Languages for Backend Web Development](https://www.geeksforgeeks.org/top-7-programming-languages-for-backend-web-development/)
+- [Frontend vs backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
 
 ## JAMStack
 
-*   [JAMStack](https://jamstack.org/)
-*   [StaticGen](https://www.staticgen.com/)
-*   [JAMStack themes](https://jamstackthemes.dev/)
-*   [JAMstack Themes](https://github.com/stackbit/jamstackthemes)
-*   [MDwiki](http://dynalon.github.io/mdwiki)
-*   [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
+* [JAMStack](https://jamstack.org/)
+* [StaticGen](https://www.staticgen.com/)
+* [JAMStack themes](https://jamstackthemes.dev/)
+* [JAMstack Themes](https://github.com/stackbit/jamstackthemes)
+* [MDwiki](http://dynalon.github.io/mdwiki)
+* [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
 
 ### [Static websites](https://www.staticgen.com/)
 
-*   [Hugo](https://gohugo.io/)
-    *   [Hugo, getting started](https://gohugo.io/getting-started/quick-start/)
-*   [Jekyll](https://jekyllrb.com/)
-    *   [Jekyll themes](https://jekyllrb.com/docs/themes/)
-*   [Gitbook](https://pages.gitlab.io/gitbook/)
+* [Hugo](https://gohugo.io/)
+  * [Hugo, getting started](https://gohugo.io/getting-started/quick-start/)
+* [Jekyll](https://jekyllrb.com/)
+  * [Jekyll themes](https://jekyllrb.com/docs/themes/)
+* [Gitbook](https://pages.gitlab.io/gitbook/)
+* [Gridsome](https://gridsome.org/)
+* [Storybook](https://storybook.js.org/)
 
 ### Examples
 
