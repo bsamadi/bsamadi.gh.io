@@ -48,6 +48,8 @@ slug: /web
 ## پایگاه‌ها داده‌ها
 - [SQL](https://www.w3schools.com/sql/default.asp)
 
+<p dir="auto">
+
 ## JAMStack
 JAMStack stands for JavaScript, API and Markup.
 
@@ -56,6 +58,9 @@ JAMStack stands for JavaScript, API and Markup.
 - [Jekyll](http://jekyllrb.com/)
 - [NextJS](https://nextjs.org/)
 - [Docusaurus](https://docusaurus.io/)
+
+</p>
+
 # سرنخ‌ها
 
 <div dir="auto">
