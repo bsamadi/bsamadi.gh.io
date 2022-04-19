@@ -14,7 +14,7 @@ keywords:
 image: "img/logo.svg"
 slug: /web
 ---
-<div dir="auto">
+
 
 ## طراحی گرافیکی
 - [Adobe XD](https://www.adobe.com/ca/products/xd.html)
@@ -22,17 +22,19 @@ slug: /web
 - [Pencil](https://pencil.evolus.vn/)
 - [Sketch](https://www.sketch.com/)
 ## فرانت اند (frontend)
-- زبان‌ها
+زبان‌ها:
   - [HTML](https://www.w3schools.com/html/default.asp)
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [CSS](https://www.w3schools.com/css/)
-- کتابخانه‌ها
+کتابخانه‌ها:
   - [React.js](https://reactjs.org/docs/getting-started.html)
   - [Angular](https://angular.io/docs)
   - [Vue.js](https://vuejs.org/guide/quick-start.html)
   - [Flutter](https://flutter.dev/)
 ## بک اند (backend)
-- زبان‌ها
+زبان‌ها:
+<div dir="auto">
+
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [Python](https://www.w3schools.com/python/default.asp)
   - [PHP](https://www.w3schools.com/php/default.asp)
@@ -41,7 +43,8 @@ slug: /web
   - [Go](https://go.dev/)
   - [C#](https://www.w3schools.com/cs/index.php)
 
-- کتابخانه‌ها
+</div>
+کتابخانه‌ها:
   - [Express JS: Node.js web application framework](https://expressjs.com/en/starter/hello-world.html)
   - [Flask](https://github.com/pallets/flask)
   - [Django REST framework](https://www.django-rest-framework.org/tutorial/quickstart/)
@@ -67,7 +70,7 @@ slug: /web
 - [Jekyll](http://jekyllrb.com/)
 
 # سرنخ‌ها
-
+<div dir="auto">
 
 ## Frontend
 
