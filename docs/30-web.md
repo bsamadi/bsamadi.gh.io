@@ -25,6 +25,7 @@ slug: /web
 - [Sketch](https://www.sketch.com/)
 
 </div>
+
 ## فرانت اند (frontend)
 زبان‌ها:
 <div dir="auto">
@@ -43,6 +44,7 @@ slug: /web
 - [Flutter](https://flutter.dev/)
 
 </div>
+
 ## بک اند (backend)
 زبان‌ها:
 <div dir="auto">
@@ -66,6 +68,7 @@ slug: /web
 - [Spring](https://spring.io/quickstart) 
 
 </div>
+
 ## پایگاه‌ها داده‌ها
 <div dir="auto">
 
