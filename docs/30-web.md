@@ -38,7 +38,7 @@ slug: /web
   - [Java](https://www.w3schools.com/java/default.asp)
   - [Ruby](https://www.ruby-lang.org/en/)
   - [Go](https://go.dev/)
-  - [C#](https://www.w3schools.com/cs/index.php)
+  - <p dir="auto">[C#](https://www.w3schools.com/cs/index.php)</p>
 - کتابخانه‌ها
   - [Express JS: Node.js web application framework](https://expressjs.com/en/starter/hello-world.html)
   - [Flask](https://github.com/pallets/flask)
