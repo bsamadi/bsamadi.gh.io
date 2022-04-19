@@ -29,6 +29,7 @@ slug: /team
   - قبلا کار می‌کرد
   - روی کامپیوتر من کار می‌کند
   - آخرین نسخه کدام بود؟
+- [قابلیت بازتولید](https://the-turing-way.netlify.app/reproducible-research/renv/renv-options.html)
 
 # سرنخ‌ها
 
