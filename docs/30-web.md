@@ -17,20 +17,32 @@ slug: /web
 
 
 ## طراحی گرافیکی
+<div dir="auto">
+
 - [Adobe XD](https://www.adobe.com/ca/products/xd.html)
 - [Figma](https://www.figma.com/)
 - [Pencil](https://pencil.evolus.vn/)
 - [Sketch](https://www.sketch.com/)
+
+</div>
 ## فرانت اند (frontend)
 زبان‌ها:
-  - [HTML](https://www.w3schools.com/html/default.asp)
-  - [JavaScript](https://www.w3schools.com/js/default.asp)
-  - [CSS](https://www.w3schools.com/css/)
+<div dir="auto">
+
+- [HTML](https://www.w3schools.com/html/default.asp)
+- [JavaScript](https://www.w3schools.com/js/default.asp)
+- [CSS](https://www.w3schools.com/css/)
+
+</div>
 کتابخانه‌ها:
-  - [React.js](https://reactjs.org/docs/getting-started.html)
-  - [Angular](https://angular.io/docs)
-  - [Vue.js](https://vuejs.org/guide/quick-start.html)
-  - [Flutter](https://flutter.dev/)
+<div dir="auto">
+
+- [React.js](https://reactjs.org/docs/getting-started.html)
+- [Angular](https://angular.io/docs)
+- [Vue.js](https://vuejs.org/guide/quick-start.html)
+- [Flutter](https://flutter.dev/)
+
+</div>
 ## بک اند (backend)
 زبان‌ها:
 <div dir="auto">
@@ -45,13 +57,21 @@ slug: /web
 
 </div>
 کتابخانه‌ها:
-  - [Express JS: Node.js web application framework](https://expressjs.com/en/starter/hello-world.html)
-  - [Flask](https://github.com/pallets/flask)
-  - [Django REST framework](https://www.django-rest-framework.org/tutorial/quickstart/)
-  - [Rails](https://guides.rubyonrails.org/getting_started.html)
-  - [Spring](https://spring.io/quickstart) 
+<div dir="auto">
+
+- [Express JS: Node.js web application framework](https://expressjs.com/en/starter/hello-world.html)
+- [Flask](https://github.com/pallets/flask)
+- [Django REST framework](https://www.django-rest-framework.org/tutorial/quickstart/)
+- [Rails](https://guides.rubyonrails.org/getting_started.html)
+- [Spring](https://spring.io/quickstart) 
+
+</div>
 ## پایگاه‌ها داده‌ها
+<div dir="auto">
+
 - [SQL](https://www.w3schools.com/sql/default.asp)
+
+</div>
 
 ## [JAMStack](https://jamstack.wtf/)
 
@@ -63,11 +83,15 @@ slug: /web
 
 نمونه‌ها:
 
+<div dir="auto">
+
 - [Docusaurus](https://docusaurus.io/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [NextJS](https://nextjs.org/)
 - [Hugo](https://gohugo.io/)
 - [Jekyll](http://jekyllrb.com/)
+
+</div>
 
 # سرنخ‌ها
 <div dir="auto">
