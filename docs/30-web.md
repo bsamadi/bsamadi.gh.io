@@ -32,15 +32,15 @@ slug: /web
   - [Flutter](https://flutter.dev/)
 ## بک اند (backend)
 - زبان‌ها
+<p dir="auto">
+  
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [Python](https://www.w3schools.com/python/default.asp)
   - [PHP](https://www.w3schools.com/php/default.asp)
   - [Java](https://www.w3schools.com/java/default.asp)
   - [Ruby](https://www.ruby-lang.org/en/)
   - [Go](https://go.dev/)
-  - <p dir="auto">
-
-[C#](https://www.w3schools.com/cs/index.php)
+  - [C#](https://www.w3schools.com/cs/index.php)
 
 </p>
 - کتابخانه‌ها
