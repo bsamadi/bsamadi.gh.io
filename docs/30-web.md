@@ -14,6 +14,7 @@ keywords:
 image: "img/logo.svg"
 slug: /web
 ---
+<div dir="auto">
 
 ## طراحی گرافیکی
 - [Adobe XD](https://www.adobe.com/ca/products/xd.html)
@@ -32,8 +33,6 @@ slug: /web
   - [Flutter](https://flutter.dev/)
 ## بک اند (backend)
 - زبان‌ها
-<p dir="auto">
-  
   - [JavaScript](https://www.w3schools.com/js/default.asp)
   - [Python](https://www.w3schools.com/python/default.asp)
   - [PHP](https://www.w3schools.com/php/default.asp)
@@ -42,7 +41,6 @@ slug: /web
   - [Go](https://go.dev/)
   - [C#](https://www.w3schools.com/cs/index.php)
 
-</p>
 - کتابخانه‌ها
   - [Express JS: Node.js web application framework](https://expressjs.com/en/starter/hello-world.html)
   - [Flask](https://github.com/pallets/flask)
@@ -70,7 +68,6 @@ slug: /web
 
 # سرنخ‌ها
 
-<div dir="auto">
 
 ## Frontend
 
