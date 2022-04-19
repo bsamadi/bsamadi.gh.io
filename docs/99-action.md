@@ -30,6 +30,5 @@ slug: /action
 
 - [Persian Developers Hub](https://persiandevelopers.com/) ([clubhouse](https://www.clubhouse.com/club/persian-developers-hub), [Twitch](https://www.twitch.tv/persiandevelopers))
 - [Kooshiar](https://linktr.ee/kooshiar)
-- [Start a podcast](https://the-turing-way.netlify.app/communication/podcasts.html)
 
 </div>
