@@ -37,6 +37,7 @@ slug: /team
 
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
 - [Reproducibility of Scientific Results](https://plato.stanford.edu/entries/scientific-reproducibility/)
+- [Start a podcast](https://the-turing-way.netlify.app/communication/podcasts.html)
 
 ## Version Control for Code
 - [Getting started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html)
