@@ -28,6 +28,8 @@ slug: /action
 
 <div dir="auto">
 
+- [Persian Developers Hub](https://persiandevelopers.com/)
+- [Kooshiar](https://linktr.ee/kooshiar)
 - [Start a podcast](https://the-turing-way.netlify.app/communication/podcasts.html)
 
 </div>
