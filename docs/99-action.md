@@ -28,6 +28,10 @@ slug: /action
 
 <div dir="auto">
 
+- [Tek Talk](https://linktr.ee/tektalk)
+  - [e-Tek 91: Ardalan Naghshineh](https://youtu.be/FcRUmfwuWTo)
+  - [e-Tek 87: Yaser Khalighi](https://youtu.be/mXNgK3flhRM)
+  - [e-Tek 70: Pedram Ataee](https://youtu.be/tOdVgFebEJY)
 - [Persian Developers Hub](https://persiandevelopers.com/) ([clubhouse](https://www.clubhouse.com/club/persian-developers-hub), [Twitch](https://www.twitch.tv/persiandevelopers))
 - [Kooshiar](https://linktr.ee/kooshiar)
 
