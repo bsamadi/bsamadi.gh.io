@@ -17,6 +17,7 @@ slug: /writing
 
 - نوشتن متن‌های علمی و فنی
   - [Markdown](https://dillinger.io/)
+    - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [pandoc](https://pandoc.org/)
   - [RStudio](https://rmarkdown.rstudio.com/gallery.html)
   - [KaTeX](https://katex.org/)
