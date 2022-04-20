@@ -15,7 +15,7 @@ slug: /
 ---
 
 - آشنایی با سخنران
-  - [AIS Robots](https://youtu.be/ilNIkZJ3NwY)
+  - [ربات‌های AIS](https://youtu.be/ilNIkZJ3NwY)
 - چرا برنامه‌نویسی؟
 - سخت‌افزار و نرم‌افزار
 - تأثیرات اقتصادی
