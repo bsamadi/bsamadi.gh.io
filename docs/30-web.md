@@ -268,6 +268,7 @@ slug: /web
 * [JAMstack Themes](https://github.com/stackbit/jamstackthemes)
 * [MDwiki](http://dynalon.github.io/mdwiki)
 * [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
+* [JAMStack.ai](https://jamstack.ai/)
 
 ### [Static websites](https://www.staticgen.com/)
 
