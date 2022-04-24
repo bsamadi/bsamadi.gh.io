@@ -1,13 +1,13 @@
 ---
 id: elearninghub
-title: مؤسسه یادگیری الکترونیکی
+title: مرکز یادگیری الکترونیکی
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: مؤسسه یادگیری الکترونیکی
+sidebar_label: مرکز یادگیری الکترونیکی
 sidebar_position: 50
-pagination_label: مؤسسه یادگیری الکترونیکی
+pagination_label: مرکز یادگیری الکترونیکی
 # custom_edit_url: https://bsamadi.github.io/coding/docs/10-team.md
-description: مؤسسه یادگیری الکترونیکی دوست شما است.
+description: مرکز یادگیری الکترونیکی دوست شما است.
 keywords:
   - یادگیری الکترونیکی
   - Markdown
