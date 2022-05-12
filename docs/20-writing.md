@@ -22,6 +22,8 @@ slug: /writing
   - [RStudio](https://rmarkdown.rstudio.com/gallery.html)
   - [KaTeX](https://katex.org/)
 - مدیریت مراجع
+  - [Obsidian](https://obsidian.md/)
+  - [Roam Research](https://roamresearch.com/)
   - [Qiqqa](http://www.qiqqa.com/)
   - [JabRef](http://jabref.sourceforge.net/)
   - [Mendeley](http://www.mendeley.com/)
