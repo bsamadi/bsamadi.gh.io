@@ -1,13 +1,13 @@
 ---
 id: elearninghub
-title: مرکز یادگیری الکترونیکی
+title: eLearningHub
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: مرکز یادگیری الکترونیکی
+sidebar_label: eLearningHub
 sidebar_position: 50
-pagination_label: مرکز یادگیری الکترونیکی
+pagination_label: eLearningHub
 # custom_edit_url: https://bsamadi.github.io/coding/docs/10-team.md
-description: مرکز یادگیری الکترونیکی دوست شما است.
+description: eLearningHub is about learning by doing.
 keywords:
   - یادگیری الکترونیکی
   - Markdown

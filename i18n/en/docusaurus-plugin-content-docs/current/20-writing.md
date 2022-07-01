@@ -1,21 +1,21 @@
 ---
 id: writing
-title: نوشتن
+title: Writing
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: نوشتن
+sidebar_label: Writing
 sidebar_position: 20
-pagination_label: نوشتن
+pagination_label: Writing
 # custom_edit_url: https://bsamadi.github.io/coding/docs/10-team.md
-description: خوب نوشتن مهم است.
+description: To become successful, you need to write well.
 keywords:
-  - نوشتن
+  - Writing
   - Markdown
 image: "img/logo.svg"
 slug: /writing
 ---
 
-- نوشتن متن‌های علمی و فنی
+- Technical writing
   - [Markdown](https://dillinger.io/)
     - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [pandoc](https://pandoc.org/)

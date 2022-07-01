@@ -1,23 +1,23 @@
 ---
 id: team
-title: کار گروهی
+title: Teamwork
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: کار گروهی
+sidebar_label: Teamwork
 sidebar_position: 10
-pagination_label: کار گروهی
+pagination_label: Teamwork
 # custom_edit_url: https://bsamadi.github.io/coding/docs/10-team.md
-description: گیتهاب دوست شما است.
+description: GitHub is your friend.
 keywords:
-  - گیتهاب
-  - قابلیت بازتولید
+  - GitHub
+  - Reproducibility
   - Markdown
 image: "img/logo.svg"
 slug: /team
 ---
 
-- کار گروهی
-- سیستم کنترل نسخه
+- Teamwork
+- Version Control System
   - نرم‌افزار
   - داده ([اصول FAIR](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html))
 - چرخ را از اول اختراع نکنید.

@@ -1,15 +1,15 @@
 ---
 id: web
-title: وب
+title: Web
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: وب
+sidebar_label: Web
 sidebar_position: 30
-pagination_label: وب
+pagination_label: Web
 # custom_edit_url: https://bsamadi.github.io/coding/docs/10-team.md
-description: گیتهاب دوست شما است.
+description: Web is the human machine interface.
 keywords:
-  - وب
+  - Web
   - Markdown
 image: "img/logo.svg"
 slug: /web
