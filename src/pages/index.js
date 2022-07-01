@@ -26,19 +26,19 @@ const KEYWORDS = [
 const HEADER = translate({
   id: "pages.main.datagit",
   message: "برنامه‌نویسی خودمانی",
-  description: "The name of the project"
+  description: "Coding for the rest of us"
 })
 
 const SUB_HEADER = translate({
   id: "pages.main.tagline",
   message: "شکیبایی رمز پیروزی!",
-  description: "The tagline of the project"
+  description: "Patience is the key to success!"
 })
 
 const GET_STARTED = translate({
   id: "pages.main.getStarted",
   message: "پیشگفتار",
-  description: "The get started button"
+  description: "Introduction"
 })
 
 function Home() {
