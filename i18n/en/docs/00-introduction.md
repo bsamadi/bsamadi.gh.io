@@ -1,9 +1,9 @@
 ---
 id: introduction
-title: پیشگفتار
+title: Introduction
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: پیشگفتار
+sidebar_label: Introduction
 sidebar_position: 1
 pagination_label: Introduction
 # custom_edit_url: https://bsamadi.github.io/coding/docs/introduction.md
@@ -16,16 +16,15 @@ slug: /
 
 - The speaker is Behzad Samadi from Advanced Intelligent Systems (AIS)
 - [AIS robots](https://youtu.be/ilNIkZJ3NwY)
-
-- چرا برنامه‌نویسی؟
-- سخت‌افزار و نرم‌افزار
-- تأثیرات اقتصادی
-  - تجارت
-  - ارزهای دیجیتال
-- تأثیرات اجتماعی
-- کار گروهی
-- نرم‌افزار متن‌باز
-- تغییرات سریع و زیاد نرم‌افزار: تهدید و فرصت
+- Why coding?
+- Hardware and software
+- Economic effects
+  - Commerce
+  - Crypto currencies
+- Social effects
+- Teamwork
+- Open source software
+- A lot rapid changes in software: threat and opportunity
 
 # Pointers
 
