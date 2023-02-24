@@ -1,12 +1,12 @@
 ---
-id: introduction
-title: Introduction
+id: speaker
+title: Speaker
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: Introduction
+sidebar_label: Speaker
 sidebar_position: 1
-pagination_label: Introduction
-# custom_edit_url: https://bsamadi.github.io/coding/docs/introduction.md
+pagination_label: Speaker
+# custom_edit_url: https://bsamadi.github.io/coding/docs/00-speaker.md
 description: Overview of the content
 keywords:
 - Coding
