@@ -29,4 +29,3 @@ slug: /
 - [Behzad Samadi's portfolio](https://linktr.ee/mechatronics3d)
 
 </div>
-
