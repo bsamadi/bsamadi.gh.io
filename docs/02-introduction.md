@@ -4,7 +4,7 @@ title: پیشگفتار
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: پیشگفتار
-sidebar_position: 1
+sidebar_position: 2
 pagination_label: پیشگفتار
 # custom_edit_url: https://bsamadi.github.io/coding/docs/introduction.md
 description: آشنایی
