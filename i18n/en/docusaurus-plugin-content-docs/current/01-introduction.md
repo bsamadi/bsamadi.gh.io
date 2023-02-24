@@ -11,11 +11,9 @@ description: Overview of the content
 keywords:
 - Coding
 image: "img/logo.svg"
-slug: /
+slug: /intro
 ---
 
-- The speaker is Behzad Samadi from Advanced Intelligent Systems (AIS)
-- [AIS robots](https://youtu.be/ilNIkZJ3NwY)
 - Why coding?
 - Hardware and software
 - Economic effects
