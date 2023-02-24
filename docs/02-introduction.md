@@ -11,7 +11,7 @@ description: آشنایی
 keywords:
   - برنامه‌نویسی
 image: "img/logo.svg"
-slug: /
+slug: /intro
 ---
 
 - چرا برنامه‌نویسی؟
