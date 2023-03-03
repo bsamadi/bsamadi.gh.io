@@ -16,20 +16,20 @@ image: "img/logo.svg"
 slug: /team
 ---
 
-- کار گروهی
+- نرم‌افزار متن‌باز
+- [پژوهش متن‌باز](https://the-turing-way.netlify.app/reproducible-research/open.html)
+- - کار گروهی
 - سیستم کنترل نسخه
   - نرم‌افزار
   - داده ([اصول FAIR](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html))
-- چرخ را از اول اختراع نکنید.
-- نرم‌افزار متن‌باز
-- [پژوهش متن‌باز](https://the-turing-way.netlify.app/reproducible-research/open.html)
-- طراحی پودمانی ([modular](http://www.mechatronics3d.com/slide/vp2014/index.html#/section))
+- چرخ را از اول اختراع نکنید
 - گیتهاب دوست شما است. دوستان دیگری هم دارید: Gitlab و Bitbucket. اما بیشتر آدم‌ها روی گیتهاب هم هستند.
 - مشکلات نرم‌افزاری:
   - قبلا کار می‌کرد
   - روی کامپیوتر من کار می‌کند
   - آخرین نسخه کدام بود؟
 - [قابلیت بازتولید](https://the-turing-way.netlify.app/reproducible-research/renv/renv-options.html)
+- - طراحی پودمانی ([modular](http://www.mechatronics3d.com/slide/vp2014/index.html#/section))
 
 # سرنخ‌ها
 
