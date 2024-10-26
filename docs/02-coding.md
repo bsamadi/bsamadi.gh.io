@@ -7,7 +7,7 @@ sidebar_label: برنامه‌نویسی
 sidebar_position: 2
 pagination_label: برنامه‌نویسی
 # custom_edit_url: https://bsamadi.github.io/coding/docs/coding.md
-description: آشنایی
+description: چرا برنامه‌نویسی
 keywords:
   - برنامه‌نویسی
 image: "img/logo.svg"
