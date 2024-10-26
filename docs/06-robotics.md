@@ -4,7 +4,7 @@ title: رباتیک
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: رباتیک
-sidebar_position: 9
+sidebar_position: 6
 pagination_label: رباتیک
 # custom_edit_url: https://bsamadi.github.io/coding/docs/robotics.md
 description: بررسی علم رباتیک، کاربردها و تحولات در حوزه‌های مختلف
