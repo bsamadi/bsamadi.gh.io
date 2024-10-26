@@ -1,17 +1,17 @@
 ---
-id: introduction
+id: coding
 title: برنامه‌نویسی
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: برنامه‌نویسی
 sidebar_position: 2
 pagination_label: برنامه‌نویسی
-# custom_edit_url: https://bsamadi.github.io/coding/docs/introduction.md
+# custom_edit_url: https://bsamadi.github.io/coding/docs/coding.md
 description: آشنایی
 keywords:
   - برنامه‌نویسی
 image: "img/logo.svg"
-slug: /intro
+slug: /coding
 ---
 
 - چرا برنامه‌نویسی؟
