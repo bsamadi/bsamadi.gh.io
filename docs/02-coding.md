@@ -1,11 +1,11 @@
 ---
 id: introduction
-title: پیشگفتار
+title: برنامه‌نویسی
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: پیشگفتار
+sidebar_label: برنامه‌نویسی
 sidebar_position: 2
-pagination_label: پیشگفتار
+pagination_label: برنامه‌نویسی
 # custom_edit_url: https://bsamadi.github.io/coding/docs/introduction.md
 description: آشنایی
 keywords:
