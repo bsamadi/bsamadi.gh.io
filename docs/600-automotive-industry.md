@@ -4,7 +4,7 @@ title: صنعت خودروسازی
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: صنعت خودروسازی
-sidebar_position: 5
+sidebar_position: 600
 pagination_label: صنعت خودروسازی
 # custom_edit_url: https://bsamadi.github.io/coding/docs/automotive-industry.md
 description: بررسی صنعت خودروسازی، تحولات و چالش‌ها

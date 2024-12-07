@@ -4,7 +4,7 @@ title: برنامه‌نویسی
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: برنامه‌نویسی
-sidebar_position: 9
+sidebar_position: 1000
 pagination_label: برنامه‌نویسی
 # custom_edit_url: https://bsamadi.github.io/coding/docs/coding.md
 description: چرا برنامه‌نویسی

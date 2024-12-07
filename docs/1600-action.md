@@ -4,7 +4,7 @@ title: برنامه یادگیری و اثرگذاری
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: برنامه
-sidebar_position: 99
+sidebar_position: 1600
 pagination_label: برنامه
 # custom_edit_url: https://bsamadi.github.io/coding/docs/github.md
 description: برای خودتان یک برنامه یادگیری درست کنید.

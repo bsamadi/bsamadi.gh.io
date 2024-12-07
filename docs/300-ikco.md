@@ -4,7 +4,7 @@ title: ایران خودرو
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: ایران خودرو
-sidebar_position: 2
+sidebar_position: 300
 pagination_label: ایران خودرو
 # custom_edit_url: https://bsamadi.github.io/coding/docs/02-ikco.md
 description: معرفی شرکت ایران خودرو و نقش آن در صنعت خودروسازی ایران

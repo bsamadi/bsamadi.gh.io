@@ -4,7 +4,7 @@ title: هوش مصنوعی مولد
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: هوش مصنوعی مولد
-sidebar_position: 7
+sidebar_position: 800
 pagination_label: هوش مصنوعی مولد
 # custom_edit_url: https://bsamadi.github.io/coding/docs/generative-ai.md
 description: بررسی هوش مصنوعی مولد، کاربردها و چالش‌های آن در دنیای مدرن

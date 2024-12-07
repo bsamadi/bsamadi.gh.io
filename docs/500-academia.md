@@ -4,7 +4,7 @@ title: کار دانشگاهی
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: کار دانشگاهی
-sidebar_position: 4
+sidebar_position: 500
 pagination_label: کار دانشگاهی
 # custom_edit_url: https://bsamadi.github.io/coding/docs/academic-work.md
 description: بررسی کارهای دانشگاهی، نقش پژوهش و تاثیر آن در توسعه علم و فناوری

@@ -4,7 +4,7 @@ title: فهرست ارائه
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: فهرست ارائه
-sidebar_position: 0
+sidebar_position: 100
 pagination_label: فهرست ارائه
 # custom_edit_url: https://bsamadi.github.io/coding/docs/presentation-outline.md
 description: فهرست کلی ارائه در موضوعات مختلف مهندسی، فناوری و توسعه شخصی

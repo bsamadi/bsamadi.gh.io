@@ -4,7 +4,7 @@ title: دوره دکترا
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: دوره دکترا
-sidebar_position: 3
+sidebar_position: 400
 pagination_label: دوره دکترا
 # custom_edit_url: https://bsamadi.github.io/coding/docs/phd-programs.md
 description: نگاهی به دوره‌های دکترا و فرصت‌های پژوهشی در ایران

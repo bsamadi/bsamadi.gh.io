@@ -4,7 +4,7 @@ title: دانشگاه‌های ایران
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: دانشگاه‌های ایران
-sidebar_position: 1
+sidebar_position: 200
 pagination_label: دانشگاه‌های ایران
 # custom_edit_url: https://bsamadi.github.io/coding/docs/iran-universities.md
 description: بررسی دانشگاه‌های برتر ایران
